@@ -172,7 +172,7 @@ sudo ./mac-spoofer-pro.sh --gui
 sudo ./mac-spoofer-pro.sh
 # Select option: 5
 ```
-[Terminal Mode](screenshots/terminal-mode.png)
+![Terminal Mode](screenshots/terminal-mode.png)
 ---
 
 ## 📋 Requirements
